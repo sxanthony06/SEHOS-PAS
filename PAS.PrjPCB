@@ -41,7 +41,7 @@ PrefsRevisionGUID=
 DocumentPath=Pas_Schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Pas PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XMRUINKG
-
-[Document4]
 DocumentPath=Component Library\Patient Alarm System Altium Integrated Library of Components.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,91 +105,120 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document5]
+DocumentPath=PAS_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KACJLHJG
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PAS\Design Rule Check - Pas PCB.html
+DocumentPath=Project Outputs for PAS\Design Rule Check - PAS_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PAS\PAS.nsx
+DocumentPath=Project Outputs for PAS\Design Rule Check - Pas PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PAS\Pas PCB.EXTREP
+DocumentPath=Project Outputs for PAS\PAS.nsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PAS\Pas PCB.REP
+DocumentPath=PAS_PCB 11-6-2018 9-27-00 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for PAS\Pas PCB.RUL
+DocumentPath=Project Outputs for PAS\PAS_PCB.xls
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PAS\Pas PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PAS\Pas PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for PAS\Pas PCB_Drawing_1.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PAS\Pas PCB_Drillmap_1.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PAS\Pas PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PAS\Pas PCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for PAS\Pas PCB_Mechanical_2.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for PAS\Pas PCB_Mechanical_13.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for PAS\Pas PCB_Mechanical_15.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for PAS\Pas PCB_NPTH_Drill.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Mechanical_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for PAS\Pas PCB_Pads_Bot.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for PAS\Pas PCB_Pads_Top.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for PAS\Pas PCB_Profile.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for PAS\Pas PCB_PTH_Drill.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for PAS\Pas PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for PAS\Pas PCB_Soldermask_Top.gbr
+DocumentPath=Project Outputs for PAS\Pas PCB_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=Project Outputs for PAS\Pas PCB_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PAS\Pas PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for PAS\Pas PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Component Library\Patient Alarm System Altium Integrated Library of Components.html
 DItemRevisionGUID=
 
@@ -751,6 +763,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=ForceUpdateSettings
+Configuration1_Item3=False
+Configuration1_Name4=General
+Configuration1_Item4=OpenExported=False|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=956|FormHeight=659|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
+Configuration1_Name5=GroupOrder
+Configuration1_Item5=Comment=True|Footprint=True
+Configuration1_Name6=SortOrder
+Configuration1_Item6=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name7=VisibleOrder
+Configuration1_Item7=Comment=83|Description=83|Designator=83|Footprint=63|LibRef=63|Manufacturer Part Number 1=75|Quantity=63|RoHS=63|Supplier 1=75|Supplier Part Number 1=75|Value=63
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1399,7 +1425,7 @@ GlobalIndexSortLocation=0
 
 [PrjClassGen]
 CompClassManualEnabled=0
-CompClassManualRoomEnabled=0
+CompClassManualRoomEnabled=1
 NetClassAutoBusEnabled=0
 NetClassAutoCompEnabled=1
 NetClassAutoNamedHarnessEnabled=0
@@ -1418,70 +1444,112 @@ ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID1=Capacitor
-ComponentSymbolReference1=Capacitor
+ComponentDesignItemID1=6-pole Terminal Block
+ComponentSymbolReference1=6-pole Terminal Block
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID2=E15_USB_T2
-ComponentSymbolReference2=E15_USB_T2
+ComponentDesignItemID2=CAP_10µF
+ComponentSymbolReference2=CAP_10µF
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID3=ESP-01
-ComponentSymbolReference3=ESP-01
+ComponentDesignItemID3=CAP_100nF
+ComponentSymbolReference3=CAP_100nF
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID4=IlD74
-ComponentSymbolReference4=IlD74
+ComponentDesignItemID4=CAP_3.3µF
+ComponentSymbolReference4=CAP_3.3µF
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID5=Inductor
-ComponentSymbolReference5=Inductor
+ComponentDesignItemID5=ESP-01
+ComponentSymbolReference5=ESP-01
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID6=LED1
-ComponentSymbolReference6=LED1
+ComponentDesignItemID6=IlD74
+ComponentSymbolReference6=IlD74
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID7=PIC18F45K22-I/P
-ComponentSymbolReference7=PIC18F45K22-I/P
+ComponentDesignItemID7=Inductor_5.6µH
+ComponentSymbolReference7=Inductor_5.6µH
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID8=R-783.3-0.5
-ComponentSymbolReference8=R-783.3-0.5
+ComponentDesignItemID8=LED_Green
+ComponentSymbolReference8=LED_Green
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID9=Res1
-ComponentSymbolReference9=Res1
+ComponentDesignItemID9=LED_Red
+ComponentSymbolReference9=LED_Red
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID10=SW-SPST
-ComponentSymbolReference10=SW-SPST
+ComponentDesignItemID10=PIC18F45K22-I/P
+ComponentSymbolReference10=PIC18F45K22-I/P
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=Patient Alarm System Altium Integrated Library of Components.IntLib
-ComponentDesignItemID11=Terminal Block
-ComponentSymbolReference11=Terminal Block
+ComponentDesignItemID11=R-783.3-0.5
+ComponentSymbolReference11=R-783.3-0.5
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID12=Res_1.15K
+ComponentSymbolReference12=Res_1.15K
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID13=Res_10K
+ComponentSymbolReference13=Res_10K
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID14=Res_130
+ComponentSymbolReference14=Res_130
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID15=Res_1K
+ComponentSymbolReference15=Res_1K
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID16=Res_510
+ComponentSymbolReference16=Res_510
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID17=Res_73.2
+ComponentSymbolReference17=Res_73.2
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID18=SW-SPST_B3F-1000
+ComponentSymbolReference18=SW-SPST_B3F-1000
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1567,23 +1635,27 @@ ParameterName34=RAM
 ParameterUpdate34=1
 ParameterName35=RoHS
 ParameterUpdate35=1
-ParameterName36=Timers
+ParameterName36=Supplier 1
 ParameterUpdate36=1
-ParameterName37=Value
+ParameterName37=Supplier Part Number 1
 ParameterUpdate37=1
+ParameterName38=Timers
+ParameterUpdate38=1
+ParameterName39=Value
+ParameterUpdate39=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=AXIAL-0.3
+ModelName0=AXIAL_0.2
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=DIP-8
+ModelName1=AXIAL-0.3
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=ESP-01
+ModelName2=DIP-8
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=HDR1X6
+ModelName3=ESP-01
 ModelUpdate3=1
 ModelType4=PCBLIB
 ModelName4=HDR2X5
@@ -1595,7 +1667,7 @@ ModelType6=PCBLIB
 ModelName6=MCHP-PDIP-P40
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=RADIAL_0.2
+ModelName7=Molex WM7862-ND
 ModelUpdate7=1
 ModelType8=PCBLIB
 ModelName8=RADIAL_3.5
@@ -1606,42 +1678,153 @@ ModelUpdate9=1
 ModelType10=PCBLIB
 ModelName10=SW-SPST-1
 ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=Terminal Block
-ModelUpdate11=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
+ModelType11=SI
+ModelName11=Cap
+ModelUpdate11=1
 ModelType12=SI
-ModelName12=Cap
+ModelName12=Connector
 ModelUpdate12=1
 ModelType13=SI
-ModelName13=Connector
+ModelName13=Inductor
 ModelUpdate13=1
 ModelType14=SI
-ModelName14=Inductor
+ModelName14=Res
 ModelUpdate14=1
-ModelType15=SI
-ModelName15=Res
-ModelUpdate15=1
 ModelTypeGroup2=SIM
 ModelTypeUpdate2=1
+ModelType15=SIM
+ModelName15=CAP
+ModelUpdate15=1
 ModelType16=SIM
-ModelName16=CAP
+ModelName16=INDUCTOR
 ModelUpdate16=1
 ModelType17=SIM
-ModelName17=INDUCTOR
+ModelName17=RESISTOR
 ModelUpdate17=1
 ModelType18=SIM
-ModelName18=RESISTOR
+ModelName18=WP63SRD
 ModelUpdate18=1
-ModelType19=SIM
-ModelName19=WP63SRD
-ModelUpdate19=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Miscellaneous Connectors.IntLib
+ComponentDesignItemID0=Header 5X2
+ComponentSymbolReference0=Header 5X2
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID1=6-pole Terminal Block
+ComponentSymbolReference1=6-pole Terminal Block
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID2=CAP_10µF
+ComponentSymbolReference2=CAP_10µF
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID3=CAP_100nF
+ComponentSymbolReference3=CAP_100nF
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID4=CAP_3.3µF
+ComponentSymbolReference4=CAP_3.3µF
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID5=ESP-01
+ComponentSymbolReference5=ESP-01
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID6=IlD74
+ComponentSymbolReference6=ILD74
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID7=Inductor_5.6µH
+ComponentSymbolReference7=Inductor_5.6µH
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID8=LED_Green
+ComponentSymbolReference8=LED_Green
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID9=LED_Red
+ComponentSymbolReference9=LED_Red
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID10=PIC18F45K22-I/P
+ComponentSymbolReference10=PIC18F45K22-I/P
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID11=R-783.3-0.5
+ComponentSymbolReference11=R-783.3-0.5
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID12=Res_1.15K
+ComponentSymbolReference12=Res_1.15K
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID13=Res_10K
+ComponentSymbolReference13=Res_10K
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID14=Res_130
+ComponentSymbolReference14=Res_130
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID15=Res_1K
+ComponentSymbolReference15=Res_1K
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID16=Res_510
+ComponentSymbolReference16=Res_510
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID17=Res_73.2
+ComponentSymbolReference17=Res_73.2
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Patient Alarm System Altium Integrated Library of Components.IntLib
+ComponentDesignItemID18=SW-SPST_B3F-1000
+ComponentSymbolReference18=SW-SPST_B3F-1000
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
